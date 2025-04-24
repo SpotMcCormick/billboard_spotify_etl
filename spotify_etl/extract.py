@@ -11,7 +11,7 @@ logging.basicConfig(filename='etl.log', level=logging.INFO, format='%(asctime)s 
 # Load environment variables
 load_dotenv()
 
-# Set up Spotify authentication
+# Spotify Credintials
 client_id = os.getenv("SPOTIFY_CLIENT_ID")
 client_secret = os.getenv("SPOTIFY_CLIENT_SECRET")
 
@@ -21,7 +21,14 @@ if not client_id or not client_secret:
 
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=client_id, client_secret=client_secret))
 
+#Getting Billboard hot 100 chart data
 def fetch_billboard_data(chart_name='hot-100'):
+    '''
+    Gets billboard data
+
+    :param chart_name: The chart is top 100
+    :return: Gets chart data from
+    '''
     try:
         chart = billboard.ChartData(chart_name)
         logging.info(f"Fetched Billboard chart data for {chart_name}")
@@ -31,6 +38,12 @@ def fetch_billboard_data(chart_name='hot-100'):
         return None
 
 def fetch_spotify_data(track_name, artist_name):
+    '''
+    Returns individual song data for each song on the billboard 100
+    :param track name: the name of the track on the billboard 100
+    :param artist_name: name of the artist on bilboard 100
+    :return:
+    '''
     query = f"{track_name} {artist_name}"
     try:
         results = sp.search(q=query, type="track", limit=1)

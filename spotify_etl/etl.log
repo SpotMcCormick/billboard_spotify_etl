@@ -1,504 +1,115 @@
-2025-04-22 11:31:21,796 - INFO - Fetched Billboard chart data for hot-100
-2025-04-22 11:31:22,145 - INFO - Fetched Spotify data for Luther by Kendrick Lamar & SZA
-2025-04-22 11:31:22,287 - INFO - Fetched Spotify data for Die With A Smile by Lady Gaga & Bruno Mars
-2025-04-22 11:31:22,440 - INFO - Fetched Spotify data for Nokia by Drake
-2025-04-22 11:31:22,570 - INFO - Fetched Spotify data for Pink Pony Club by Chappell Roan
-2025-04-22 11:31:22,727 - INFO - Fetched Spotify data for Ordinary by Alex Warren
-2025-04-22 11:31:22,904 - INFO - Fetched Spotify data for A Bar Song (Tipsy) by Shaboozey
-2025-04-22 11:31:23,046 - INFO - Fetched Spotify data for Lose Control by Teddy Swims
-2025-04-22 11:31:23,186 - INFO - Fetched Spotify data for All The Way by BigXthaPlug Featuring Bailey Zimmerman
-2025-04-22 11:31:23,343 - INFO - Fetched Spotify data for Beautiful Things by Benson Boone
-2025-04-22 11:31:23,491 - INFO - Fetched Spotify data for I'm The Problem by Morgan Wallen
-2025-04-22 11:31:23,632 - INFO - Fetched Spotify data for Just In Case by Morgan Wallen
-2025-04-22 11:31:23,771 - INFO - Fetched Spotify data for Birds Of A Feather by Billie Eilish
-2025-04-22 11:31:23,977 - INFO - Fetched Spotify data for APT. by ROSE & Bruno Mars
-2025-04-22 11:31:24,160 - INFO - Fetched Spotify data for Anxiety by Doechii
-2025-04-22 11:31:24,317 - INFO - Fetched Spotify data for Espresso by Sabrina Carpenter
-2025-04-22 11:31:24,453 - INFO - Fetched Spotify data for Mutt by Leon Thomas
-2025-04-22 11:31:24,596 - INFO - Fetched Spotify data for I Had Some Help by Post Malone Featuring Morgan Wallen
-2025-04-22 11:31:24,754 - INFO - Fetched Spotify data for That's So True by Gracie Abrams
-2025-04-22 11:31:24,903 - INFO - Fetched Spotify data for Not Like Us by Kendrick Lamar
-2025-04-22 11:31:25,039 - INFO - Fetched Spotify data for Love Somebody by Morgan Wallen
-2025-04-22 11:31:25,171 - INFO - Fetched Spotify data for TV Off by Kendrick Lamar Featuring Lefty Gunplay
-2025-04-22 11:31:25,322 - INFO - Fetched Spotify data for Messy by Lola Young
-2025-04-22 11:31:25,456 - INFO - Fetched Spotify data for Sports Car by Tate McRae
-2025-04-22 11:31:25,633 - INFO - Fetched Spotify data for Squabble Up by Kendrick Lamar
-2025-04-22 11:31:25,782 - INFO - Fetched Spotify data for 30 For 30 by SZA With Kendrick Lamar
-2025-04-22 11:31:25,978 - INFO - Fetched Spotify data for Abracadabra by Lady Gaga
-2025-04-22 11:31:26,197 - INFO - Fetched Spotify data for Timeless by The Weeknd & Playboi Carti
-2025-04-22 11:31:26,342 - INFO - Fetched Spotify data for Taste by Sabrina Carpenter
-2025-04-22 11:31:26,499 - INFO - Fetched Spotify data for I Never Lie by Zach Top
-2025-04-22 11:31:26,651 - INFO - Fetched Spotify data for No One Noticed by The Marias
-2025-04-22 11:31:26,806 - INFO - Fetched Spotify data for Stargazing by Myles Smith
-2025-04-22 11:31:26,949 - INFO - Fetched Spotify data for Bad Dreams by Teddy Swims
-2025-04-22 11:31:27,088 - INFO - Fetched Spotify data for Fortnight by Taylor Swift Featuring Post Malone
-2025-04-22 11:31:27,230 - INFO - Fetched Spotify data for Good News by Shaboozey
-2025-04-22 11:31:27,366 - INFO - Fetched Spotify data for Sailor Song by Gigi Perez
-2025-04-22 11:31:27,717 - INFO - Fetched Spotify data for Sorry I'm Here For Someone Else by Benson Boone
-2025-04-22 11:31:27,860 - INFO - Fetched Spotify data for I'm A Little Crazy by Morgan Wallen
-2025-04-22 11:31:28,009 - INFO - Fetched Spotify data for Worst Way by Riley Green
-2025-04-22 11:31:28,149 - INFO - Fetched Spotify data for Azizam by Ed Sheeran
-2025-04-22 11:31:28,285 - INFO - Fetched Spotify data for Indigo by Sam Barber Featuring Avery Anna
-2025-04-22 11:31:28,415 - INFO - Fetched Spotify data for Dark Thoughts by Lil Tecca
-2025-04-22 11:31:28,560 - INFO - Fetched Spotify data for Denial Is A River by Doechii
-2025-04-22 11:31:28,690 - INFO - Fetched Spotify data for Cry For Me by The Weeknd
-2025-04-22 11:31:28,826 - INFO - Fetched Spotify data for Wildflower by Billie Eilish
-2025-04-22 11:31:28,979 - INFO - Fetched Spotify data for DTMF by Bad Bunny
-2025-04-22 11:31:29,132 - INFO - Fetched Spotify data for Residuals by Chris Brown
-2025-04-22 11:31:29,362 - INFO - Fetched Spotify data for Twilight Zone by Ariana Grande
-2025-04-22 11:31:29,508 - INFO - Fetched Spotify data for Me Jalo by Fuerza Regida & Grupo Frontera
-2025-04-22 11:31:29,666 - INFO - Fetched Spotify data for Rather Lie by Playboi Carti & The Weeknd
-2025-04-22 11:31:29,803 - INFO - Fetched Spotify data for Am I Okay? by Megan Moroney
-2025-04-22 11:31:30,043 - INFO - Fetched Spotify data for The Giver by Chappell Roan
-2025-04-22 11:31:30,206 - INFO - Fetched Spotify data for Weren't For The Wind by Ella Langley
-2025-04-22 11:31:30,343 - INFO - Fetched Spotify data for Baile Inolvidable by Bad Bunny
-2025-04-22 11:31:30,543 - INFO - Fetched Spotify data for Somebody Loves Me by PARTYNEXTDOOR & Drake
-2025-04-22 11:31:30,717 - INFO - Fetched Spotify data for BMF by SZA
-2025-04-22 11:31:30,865 - INFO - Fetched Spotify data for Back To Friends by sombr
-2025-04-22 11:31:31,018 - INFO - Fetched Spotify data for Friends Like That by John Morgan Featuring Jason Aldean
-2025-04-22 11:31:31,152 - INFO - Fetched Spotify data for Te Queria Ver by Aleman X Neton Vega
-2025-04-22 11:31:31,287 - INFO - Fetched Spotify data for Smile by Morgan Wallen
-2025-04-22 11:31:31,440 - INFO - Fetched Spotify data for Ojos Tristes by Selena Gomez, benny blanco & The Marias
-2025-04-22 11:31:31,593 - INFO - Fetched Spotify data for Revolving Door by Tate McRae
-2025-04-22 11:31:31,717 - INFO - Fetched Spotify data for Loco by Neton Vega
-2025-04-22 11:31:31,862 - INFO - Fetched Spotify data for Hard Fought Hallelujah by Brandon Lake
-2025-04-22 11:31:31,995 - INFO - Fetched Spotify data for Peekaboo by Kendrick Lamar Featuring AzChike
-2025-04-22 11:31:32,123 - INFO - Fetched Spotify data for Somethin' 'Bout A Woman by Thomas Rhett Featuring Teddy Swims
-2025-04-22 11:31:32,300 - INFO - Fetched Spotify data for Busy Woman by Sabrina Carpenter
-2025-04-22 11:31:32,483 - INFO - Fetched Spotify data for Holy Smokes by Bailey Zimmerman
-2025-04-22 11:31:32,626 - INFO - Fetched Spotify data for Caramel by Sleep Token
-2025-04-22 11:31:32,756 - INFO - Fetched Spotify data for End Of The World by Miley Cyrus
-2025-04-22 11:31:32,894 - INFO - Fetched Spotify data for Love Me Not by Ravyn Lenae
-2025-04-22 11:31:33,031 - INFO - Fetched Spotify data for Gimme A Hug by Drake
-2025-04-22 11:31:33,173 - INFO - Fetched Spotify data for Fix What You Didn't Break by Nate Smith
-2025-04-22 11:31:33,321 - INFO - Fetched Spotify data for Call Me When You Break Up by Selena Gomez, benny blanco & Gracie Abrams
-2025-04-22 11:31:33,472 - INFO - Fetched Spotify data for Texas by Blake Shelton
-2025-04-22 11:31:33,653 - INFO - Fetched Spotify data for Die Trying by PARTYNEXTDOOR, Drake & Yebba
-2025-04-22 11:31:33,829 - INFO - Fetched Spotify data for No Pole by Don Toliver
-2025-04-22 11:31:33,981 - INFO - Fetched Spotify data for Chest Pain (I Love) by Malcolm Todd
-2025-04-22 11:31:34,127 - INFO - Fetched Spotify data for Are You Even Real by Teddy Swims & GIVEON
-2025-04-22 11:31:34,285 - INFO - Fetched Spotify data for EOO by Bad Bunny
-2025-04-22 11:31:34,444 - INFO - Fetched Spotify data for Like Him by Tyler, The Creator Featuring Lola Young
-2025-04-22 11:31:34,600 - INFO - Fetched Spotify data for Blue Strips by Jessie Murph
-2025-04-22 11:31:34,743 - INFO - Fetched Spotify data for The Largest by BigXthaPlug
-2025-04-22 11:31:34,874 - INFO - Fetched Spotify data for Morena by Neton Vega & Peso Pluma
-2025-04-22 11:31:35,013 - INFO - Fetched Spotify data for Undressed by sombr
-2025-04-22 11:31:35,159 - INFO - Fetched Spotify data for Feel It by d4vd
-2025-04-22 11:31:35,307 - INFO - Fetched Spotify data for Backseat Driver by Kane Brown
-2025-04-22 11:31:35,469 - INFO - Fetched Spotify data for Evil J0rdan by Playboi Carti
-2025-04-22 11:31:35,637 - INFO - Fetched Spotify data for Que Pasaria... by Rauw Alejandro & Bad Bunny
-2025-04-22 11:31:35,834 - INFO - Fetched Spotify data for Nuevayol by Bad Bunny
-2025-04-22 11:31:35,994 - INFO - Fetched Spotify data for Henry, Come On by Lana Del Rey
-2025-04-22 11:31:36,150 - INFO - Fetched Spotify data for Haunted by Kane Brown With Jelly Roll
-2025-04-22 11:31:36,314 - INFO - Fetched Spotify data for Tattoo by Tito Double P
-2025-04-22 11:31:36,447 - INFO - Fetched Spotify data for Headlock by Imogen Heap
-2025-04-22 11:31:36,609 - INFO - Fetched Spotify data for Hands Of Time by Eric Church
-2025-04-22 11:31:36,758 - INFO - Fetched Spotify data for Por Esos Ojos by Fuerza Regida
-2025-04-22 11:31:36,906 - INFO - Fetched Spotify data for like JENNIE by JENNIE
-2025-04-22 11:31:37,036 - INFO - Fetched Spotify data for Not At This Party by Dasha
-2025-04-22 11:31:37,256 - INFO - Fetched Spotify data for Whiskey Drink by Jason Aldean
-2025-04-22 11:31:37,404 - INFO - Fetched Spotify data for Little Things by Ella Mai
-2025-04-22 11:31:37,570 - INFO - Fetched Spotify data for Dandelion by Ariana Grande
-2025-04-22 11:31:37,571 - INFO - Data transformation complete \u2705
-2025-04-22 11:35:52,263 - INFO - Fetched Billboard chart data for hot-100
-2025-04-22 11:35:52,565 - INFO - Fetched Spotify data for Luther by Kendrick Lamar & SZA
-2025-04-22 11:35:52,702 - INFO - Fetched Spotify data for Die With A Smile by Lady Gaga & Bruno Mars
-2025-04-22 11:35:52,857 - INFO - Fetched Spotify data for Nokia by Drake
-2025-04-22 11:35:52,988 - INFO - Fetched Spotify data for Pink Pony Club by Chappell Roan
-2025-04-22 11:35:53,122 - INFO - Fetched Spotify data for Ordinary by Alex Warren
-2025-04-22 11:35:53,263 - INFO - Fetched Spotify data for A Bar Song (Tipsy) by Shaboozey
-2025-04-22 11:35:53,455 - INFO - Fetched Spotify data for Lose Control by Teddy Swims
-2025-04-22 11:35:53,669 - INFO - Fetched Spotify data for All The Way by BigXthaPlug Featuring Bailey Zimmerman
-2025-04-22 11:35:53,867 - INFO - Fetched Spotify data for Beautiful Things by Benson Boone
-2025-04-22 11:35:54,032 - INFO - Fetched Spotify data for I'm The Problem by Morgan Wallen
-2025-04-22 11:35:54,181 - INFO - Fetched Spotify data for Just In Case by Morgan Wallen
-2025-04-22 11:35:54,318 - INFO - Fetched Spotify data for Birds Of A Feather by Billie Eilish
-2025-04-22 11:35:54,472 - INFO - Fetched Spotify data for APT. by ROSE & Bruno Mars
-2025-04-22 11:35:54,625 - INFO - Fetched Spotify data for Anxiety by Doechii
-2025-04-22 11:35:54,774 - INFO - Fetched Spotify data for Espresso by Sabrina Carpenter
-2025-04-22 11:35:54,948 - INFO - Fetched Spotify data for Mutt by Leon Thomas
-2025-04-22 11:35:55,091 - INFO - Fetched Spotify data for I Had Some Help by Post Malone Featuring Morgan Wallen
-2025-04-22 11:35:55,249 - INFO - Fetched Spotify data for That's So True by Gracie Abrams
-2025-04-22 11:35:55,382 - INFO - Fetched Spotify data for Not Like Us by Kendrick Lamar
-2025-04-22 11:35:55,632 - INFO - Fetched Spotify data for Love Somebody by Morgan Wallen
-2025-04-22 11:35:55,771 - INFO - Fetched Spotify data for TV Off by Kendrick Lamar Featuring Lefty Gunplay
-2025-04-22 11:35:55,910 - INFO - Fetched Spotify data for Messy by Lola Young
-2025-04-22 11:35:56,056 - INFO - Fetched Spotify data for Sports Car by Tate McRae
-2025-04-22 11:35:56,245 - INFO - Fetched Spotify data for Squabble Up by Kendrick Lamar
-2025-04-22 11:35:56,417 - INFO - Fetched Spotify data for 30 For 30 by SZA With Kendrick Lamar
-2025-04-22 11:35:56,556 - INFO - Fetched Spotify data for Abracadabra by Lady Gaga
-2025-04-22 11:35:56,701 - INFO - Fetched Spotify data for Timeless by The Weeknd & Playboi Carti
-2025-04-22 11:35:56,843 - INFO - Fetched Spotify data for Taste by Sabrina Carpenter
-2025-04-22 11:35:57,042 - INFO - Fetched Spotify data for I Never Lie by Zach Top
-2025-04-22 11:35:57,195 - INFO - Fetched Spotify data for No One Noticed by The Marias
-2025-04-22 11:35:57,350 - INFO - Fetched Spotify data for Stargazing by Myles Smith
-2025-04-22 11:35:57,503 - INFO - Fetched Spotify data for Bad Dreams by Teddy Swims
-2025-04-22 11:35:57,648 - INFO - Fetched Spotify data for Fortnight by Taylor Swift Featuring Post Malone
-2025-04-22 11:35:57,811 - INFO - Fetched Spotify data for Good News by Shaboozey
-2025-04-22 11:35:57,965 - INFO - Fetched Spotify data for Sailor Song by Gigi Perez
-2025-04-22 11:35:58,110 - INFO - Fetched Spotify data for Sorry I'm Here For Someone Else by Benson Boone
-2025-04-22 11:35:58,247 - INFO - Fetched Spotify data for I'm A Little Crazy by Morgan Wallen
-2025-04-22 11:35:58,394 - INFO - Fetched Spotify data for Worst Way by Riley Green
-2025-04-22 11:35:58,543 - INFO - Fetched Spotify data for Azizam by Ed Sheeran
-2025-04-22 11:35:58,674 - INFO - Fetched Spotify data for Indigo by Sam Barber Featuring Avery Anna
-2025-04-22 11:35:58,847 - INFO - Fetched Spotify data for Dark Thoughts by Lil Tecca
-2025-04-22 11:35:59,003 - INFO - Fetched Spotify data for Denial Is A River by Doechii
-2025-04-22 11:35:59,162 - INFO - Fetched Spotify data for Cry For Me by The Weeknd
-2025-04-22 11:35:59,393 - INFO - Fetched Spotify data for Wildflower by Billie Eilish
-2025-04-22 11:35:59,547 - INFO - Fetched Spotify data for DTMF by Bad Bunny
-2025-04-22 11:35:59,740 - INFO - Fetched Spotify data for Residuals by Chris Brown
-2025-04-22 11:35:59,869 - INFO - Fetched Spotify data for Twilight Zone by Ariana Grande
-2025-04-22 11:36:00,028 - INFO - Fetched Spotify data for Me Jalo by Fuerza Regida & Grupo Frontera
-2025-04-22 11:36:00,156 - INFO - Fetched Spotify data for Rather Lie by Playboi Carti & The Weeknd
-2025-04-22 11:36:00,518 - INFO - Fetched Spotify data for Am I Okay? by Megan Moroney
-2025-04-22 11:36:00,655 - INFO - Fetched Spotify data for The Giver by Chappell Roan
-2025-04-22 11:36:00,790 - INFO - Fetched Spotify data for Weren't For The Wind by Ella Langley
-2025-04-22 11:36:00,959 - INFO - Fetched Spotify data for Baile Inolvidable by Bad Bunny
-2025-04-22 11:36:01,084 - INFO - Fetched Spotify data for Somebody Loves Me by PARTYNEXTDOOR & Drake
-2025-04-22 11:36:01,216 - INFO - Fetched Spotify data for BMF by SZA
-2025-04-22 11:36:01,355 - INFO - Fetched Spotify data for Back To Friends by sombr
-2025-04-22 11:36:01,497 - INFO - Fetched Spotify data for Friends Like That by John Morgan Featuring Jason Aldean
-2025-04-22 11:36:01,644 - INFO - Fetched Spotify data for Te Queria Ver by Aleman X Neton Vega
-2025-04-22 11:36:01,880 - INFO - Fetched Spotify data for Smile by Morgan Wallen
-2025-04-22 11:36:02,037 - INFO - Fetched Spotify data for Ojos Tristes by Selena Gomez, benny blanco & The Marias
-2025-04-22 11:36:02,178 - INFO - Fetched Spotify data for Revolving Door by Tate McRae
-2025-04-22 11:36:02,295 - INFO - Fetched Spotify data for Loco by Neton Vega
-2025-04-22 11:36:02,465 - INFO - Fetched Spotify data for Hard Fought Hallelujah by Brandon Lake
-2025-04-22 11:36:02,641 - INFO - Fetched Spotify data for Peekaboo by Kendrick Lamar Featuring AzChike
-2025-04-22 11:36:02,795 - INFO - Fetched Spotify data for Somethin' 'Bout A Woman by Thomas Rhett Featuring Teddy Swims
-2025-04-22 11:36:02,943 - INFO - Fetched Spotify data for Busy Woman by Sabrina Carpenter
-2025-04-22 11:36:03,118 - INFO - Fetched Spotify data for Holy Smokes by Bailey Zimmerman
-2025-04-22 11:36:03,260 - INFO - Fetched Spotify data for Caramel by Sleep Token
-2025-04-22 11:36:03,405 - INFO - Fetched Spotify data for End Of The World by Miley Cyrus
-2025-04-22 11:36:03,598 - INFO - Fetched Spotify data for Love Me Not by Ravyn Lenae
-2025-04-22 11:36:03,848 - INFO - Fetched Spotify data for Gimme A Hug by Drake
-2025-04-22 11:36:03,990 - INFO - Fetched Spotify data for Fix What You Didn't Break by Nate Smith
-2025-04-22 11:36:04,156 - INFO - Fetched Spotify data for Call Me When You Break Up by Selena Gomez, benny blanco & Gracie Abrams
-2025-04-22 11:36:04,302 - INFO - Fetched Spotify data for Texas by Blake Shelton
-2025-04-22 11:36:04,442 - INFO - Fetched Spotify data for Die Trying by PARTYNEXTDOOR, Drake & Yebba
-2025-04-22 11:36:04,594 - INFO - Fetched Spotify data for No Pole by Don Toliver
-2025-04-22 11:36:04,741 - INFO - Fetched Spotify data for Chest Pain (I Love) by Malcolm Todd
-2025-04-22 11:36:04,869 - INFO - Fetched Spotify data for Are You Even Real by Teddy Swims & GIVEON
-2025-04-22 11:36:05,027 - INFO - Fetched Spotify data for EOO by Bad Bunny
-2025-04-22 11:36:05,164 - INFO - Fetched Spotify data for Like Him by Tyler, The Creator Featuring Lola Young
-2025-04-22 11:36:05,299 - INFO - Fetched Spotify data for Blue Strips by Jessie Murph
-2025-04-22 11:36:05,430 - INFO - Fetched Spotify data for The Largest by BigXthaPlug
-2025-04-22 11:36:05,587 - INFO - Fetched Spotify data for Morena by Neton Vega & Peso Pluma
-2025-04-22 11:36:05,725 - INFO - Fetched Spotify data for Undressed by sombr
-2025-04-22 11:36:05,869 - INFO - Fetched Spotify data for Feel It by d4vd
-2025-04-22 11:36:06,001 - INFO - Fetched Spotify data for Backseat Driver by Kane Brown
-2025-04-22 11:36:06,132 - INFO - Fetched Spotify data for Evil J0rdan by Playboi Carti
-2025-04-22 11:36:06,276 - INFO - Fetched Spotify data for Que Pasaria... by Rauw Alejandro & Bad Bunny
-2025-04-22 11:36:06,468 - INFO - Fetched Spotify data for Nuevayol by Bad Bunny
-2025-04-22 11:36:06,607 - INFO - Fetched Spotify data for Henry, Come On by Lana Del Rey
-2025-04-22 11:36:06,741 - INFO - Fetched Spotify data for Haunted by Kane Brown With Jelly Roll
-2025-04-22 11:36:06,892 - INFO - Fetched Spotify data for Tattoo by Tito Double P
-2025-04-22 11:36:07,084 - INFO - Fetched Spotify data for Headlock by Imogen Heap
-2025-04-22 11:37:17,688 - INFO - Fetched Billboard chart data for hot-100
-2025-04-22 11:37:17,991 - INFO - Fetched Spotify data for Luther by Kendrick Lamar & SZA
-2025-04-22 11:37:18,158 - INFO - Fetched Spotify data for Die With A Smile by Lady Gaga & Bruno Mars
-2025-04-22 11:37:18,280 - INFO - Fetched Spotify data for Nokia by Drake
-2025-04-22 11:37:18,398 - INFO - Fetched Spotify data for Pink Pony Club by Chappell Roan
-2025-04-22 11:37:18,536 - INFO - Fetched Spotify data for Ordinary by Alex Warren
-2025-04-22 11:37:18,685 - INFO - Fetched Spotify data for A Bar Song (Tipsy) by Shaboozey
-2025-04-22 11:37:18,817 - INFO - Fetched Spotify data for Lose Control by Teddy Swims
-2025-04-22 11:37:18,964 - INFO - Fetched Spotify data for All The Way by BigXthaPlug Featuring Bailey Zimmerman
-2025-04-22 11:37:19,108 - INFO - Fetched Spotify data for Beautiful Things by Benson Boone
-2025-04-22 11:37:19,314 - INFO - Fetched Spotify data for I'm The Problem by Morgan Wallen
-2025-04-22 11:37:19,447 - INFO - Fetched Spotify data for Just In Case by Morgan Wallen
-2025-04-22 11:37:19,578 - INFO - Fetched Spotify data for Birds Of A Feather by Billie Eilish
-2025-04-22 11:37:19,781 - INFO - Fetched Spotify data for APT. by ROSE & Bruno Mars
-2025-04-22 11:37:19,892 - INFO - Fetched Spotify data for Anxiety by Doechii
-2025-04-22 11:37:20,000 - INFO - Fetched Spotify data for Espresso by Sabrina Carpenter
-2025-04-22 11:37:20,108 - INFO - Fetched Spotify data for Mutt by Leon Thomas
-2025-04-22 11:37:20,258 - INFO - Fetched Spotify data for I Had Some Help by Post Malone Featuring Morgan Wallen
-2025-04-22 11:37:20,369 - INFO - Fetched Spotify data for That's So True by Gracie Abrams
-2025-04-22 11:37:20,489 - INFO - Fetched Spotify data for Not Like Us by Kendrick Lamar
-2025-04-22 11:37:20,625 - INFO - Fetched Spotify data for Love Somebody by Morgan Wallen
-2025-04-22 11:37:20,814 - INFO - Fetched Spotify data for TV Off by Kendrick Lamar Featuring Lefty Gunplay
-2025-04-22 11:37:20,924 - INFO - Fetched Spotify data for Messy by Lola Young
-2025-04-22 11:37:21,051 - INFO - Fetched Spotify data for Sports Car by Tate McRae
-2025-04-22 11:37:21,192 - INFO - Fetched Spotify data for Squabble Up by Kendrick Lamar
-2025-04-22 11:37:21,312 - INFO - Fetched Spotify data for 30 For 30 by SZA With Kendrick Lamar
-2025-04-22 11:37:21,442 - INFO - Fetched Spotify data for Abracadabra by Lady Gaga
-2025-04-22 11:37:21,565 - INFO - Fetched Spotify data for Timeless by The Weeknd & Playboi Carti
-2025-04-22 11:37:21,697 - INFO - Fetched Spotify data for Taste by Sabrina Carpenter
-2025-04-22 11:37:21,808 - INFO - Fetched Spotify data for I Never Lie by Zach Top
-2025-04-22 11:37:21,930 - INFO - Fetched Spotify data for No One Noticed by The Marias
-2025-04-22 11:37:22,048 - INFO - Fetched Spotify data for Stargazing by Myles Smith
-2025-04-22 11:37:22,201 - INFO - Fetched Spotify data for Bad Dreams by Teddy Swims
-2025-04-22 11:37:22,310 - INFO - Fetched Spotify data for Fortnight by Taylor Swift Featuring Post Malone
-2025-04-22 11:37:22,428 - INFO - Fetched Spotify data for Good News by Shaboozey
-2025-04-22 11:37:22,565 - INFO - Fetched Spotify data for Sailor Song by Gigi Perez
-2025-04-22 11:37:22,714 - INFO - Fetched Spotify data for Sorry I'm Here For Someone Else by Benson Boone
-2025-04-22 11:37:22,838 - INFO - Fetched Spotify data for I'm A Little Crazy by Morgan Wallen
-2025-04-22 11:37:22,942 - INFO - Fetched Spotify data for Worst Way by Riley Green
-2025-04-22 11:37:23,064 - INFO - Fetched Spotify data for Azizam by Ed Sheeran
-2025-04-22 11:37:23,195 - INFO - Fetched Spotify data for Indigo by Sam Barber Featuring Avery Anna
-2025-04-22 11:37:23,374 - INFO - Fetched Spotify data for Dark Thoughts by Lil Tecca
-2025-04-22 11:37:23,509 - INFO - Fetched Spotify data for Denial Is A River by Doechii
-2025-04-22 11:37:23,636 - INFO - Fetched Spotify data for Cry For Me by The Weeknd
-2025-04-22 11:37:23,865 - INFO - Fetched Spotify data for Wildflower by Billie Eilish
-2025-04-22 11:37:23,993 - INFO - Fetched Spotify data for DTMF by Bad Bunny
-2025-04-22 11:37:24,152 - INFO - Fetched Spotify data for Residuals by Chris Brown
-2025-04-22 11:37:24,346 - INFO - Fetched Spotify data for Twilight Zone by Ariana Grande
-2025-04-22 11:37:24,474 - INFO - Fetched Spotify data for Me Jalo by Fuerza Regida & Grupo Frontera
-2025-04-22 11:37:24,593 - INFO - Fetched Spotify data for Rather Lie by Playboi Carti & The Weeknd
-2025-04-22 11:37:24,750 - INFO - Fetched Spotify data for Am I Okay? by Megan Moroney
-2025-04-22 11:37:24,899 - INFO - Fetched Spotify data for The Giver by Chappell Roan
-2025-04-22 11:37:25,013 - INFO - Fetched Spotify data for Weren't For The Wind by Ella Langley
-2025-04-22 11:37:25,150 - INFO - Fetched Spotify data for Baile Inolvidable by Bad Bunny
-2025-04-22 11:37:25,278 - INFO - Fetched Spotify data for Somebody Loves Me by PARTYNEXTDOOR & Drake
-2025-04-22 11:37:25,413 - INFO - Fetched Spotify data for BMF by SZA
-2025-04-22 11:37:25,541 - INFO - Fetched Spotify data for Back To Friends by sombr
-2025-04-22 11:37:25,688 - INFO - Fetched Spotify data for Friends Like That by John Morgan Featuring Jason Aldean
-2025-04-22 11:37:25,858 - INFO - Fetched Spotify data for Te Queria Ver by Aleman X Neton Vega
-2025-04-22 11:37:26,000 - INFO - Fetched Spotify data for Smile by Morgan Wallen
-2025-04-22 11:37:26,172 - INFO - Fetched Spotify data for Ojos Tristes by Selena Gomez, benny blanco & The Marias
-2025-04-22 11:37:26,307 - INFO - Fetched Spotify data for Revolving Door by Tate McRae
-2025-04-22 11:37:26,434 - INFO - Fetched Spotify data for Loco by Neton Vega
-2025-04-22 11:37:26,584 - INFO - Fetched Spotify data for Hard Fought Hallelujah by Brandon Lake
-2025-04-22 11:37:26,707 - INFO - Fetched Spotify data for Peekaboo by Kendrick Lamar Featuring AzChike
-2025-04-22 11:37:26,835 - INFO - Fetched Spotify data for Somethin' 'Bout A Woman by Thomas Rhett Featuring Teddy Swims
-2025-04-22 11:37:26,968 - INFO - Fetched Spotify data for Busy Woman by Sabrina Carpenter
-2025-04-22 11:37:27,077 - INFO - Fetched Spotify data for Holy Smokes by Bailey Zimmerman
-2025-04-22 11:37:27,201 - INFO - Fetched Spotify data for Caramel by Sleep Token
-2025-04-22 11:37:27,317 - INFO - Fetched Spotify data for End Of The World by Miley Cyrus
-2025-04-22 11:37:27,427 - INFO - Fetched Spotify data for Love Me Not by Ravyn Lenae
-2025-04-22 11:37:27,542 - INFO - Fetched Spotify data for Gimme A Hug by Drake
-2025-04-22 11:37:27,659 - INFO - Fetched Spotify data for Fix What You Didn't Break by Nate Smith
-2025-04-22 11:37:27,842 - INFO - Fetched Spotify data for Call Me When You Break Up by Selena Gomez, benny blanco & Gracie Abrams
-2025-04-22 11:37:27,979 - INFO - Fetched Spotify data for Texas by Blake Shelton
-2025-04-22 11:37:28,137 - INFO - Fetched Spotify data for Die Trying by PARTYNEXTDOOR, Drake & Yebba
-2025-04-22 11:37:28,250 - INFO - Fetched Spotify data for No Pole by Don Toliver
-2025-04-22 11:37:28,371 - INFO - Fetched Spotify data for Chest Pain (I Love) by Malcolm Todd
-2025-04-22 11:37:28,515 - INFO - Fetched Spotify data for Are You Even Real by Teddy Swims & GIVEON
-2025-04-22 11:37:28,664 - INFO - Fetched Spotify data for EOO by Bad Bunny
-2025-04-22 11:37:28,791 - INFO - Fetched Spotify data for Like Him by Tyler, The Creator Featuring Lola Young
-2025-04-22 11:37:28,986 - INFO - Fetched Spotify data for Blue Strips by Jessie Murph
-2025-04-22 11:37:29,120 - INFO - Fetched Spotify data for The Largest by BigXthaPlug
-2025-04-22 11:37:29,248 - INFO - Fetched Spotify data for Morena by Neton Vega & Peso Pluma
-2025-04-22 11:37:29,388 - INFO - Fetched Spotify data for Undressed by sombr
-2025-04-22 11:37:29,526 - INFO - Fetched Spotify data for Feel It by d4vd
-2025-04-22 11:37:29,655 - INFO - Fetched Spotify data for Backseat Driver by Kane Brown
-2025-04-22 11:37:29,829 - INFO - Fetched Spotify data for Evil J0rdan by Playboi Carti
-2025-04-22 11:37:29,945 - INFO - Fetched Spotify data for Que Pasaria... by Rauw Alejandro & Bad Bunny
-2025-04-22 11:37:30,076 - INFO - Fetched Spotify data for Nuevayol by Bad Bunny
-2025-04-22 11:37:30,228 - INFO - Fetched Spotify data for Henry, Come On by Lana Del Rey
-2025-04-22 11:37:30,373 - INFO - Fetched Spotify data for Haunted by Kane Brown With Jelly Roll
-2025-04-22 11:37:30,518 - INFO - Fetched Spotify data for Tattoo by Tito Double P
-2025-04-22 11:37:30,638 - INFO - Fetched Spotify data for Headlock by Imogen Heap
-2025-04-22 11:37:30,793 - INFO - Fetched Spotify data for Hands Of Time by Eric Church
-2025-04-22 11:37:30,920 - INFO - Fetched Spotify data for Por Esos Ojos by Fuerza Regida
-2025-04-22 11:37:31,050 - INFO - Fetched Spotify data for like JENNIE by JENNIE
-2025-04-22 11:37:31,220 - INFO - Fetched Spotify data for Not At This Party by Dasha
-2025-04-22 11:37:31,351 - INFO - Fetched Spotify data for Whiskey Drink by Jason Aldean
-2025-04-22 11:37:31,484 - INFO - Fetched Spotify data for Little Things by Ella Mai
-2025-04-22 11:37:31,609 - INFO - Fetched Spotify data for Dandelion by Ariana Grande
-2025-04-22 11:37:31,612 - INFO - Data transformation complete \u2705
-2025-04-22 11:41:30,743 - INFO - Fetched Billboard chart data for hot-100
-2025-04-22 11:41:31,002 - INFO - Fetched Spotify data for Luther by Kendrick Lamar & SZA
-2025-04-22 12:43:41,875 - INFO - Fetched Billboard chart data for hot-100
-2025-04-22 12:43:42,370 - INFO - Fetched Spotify data for Luther by Kendrick Lamar & SZA
-2025-04-22 12:43:42,498 - INFO - Fetched Spotify data for Die With A Smile by Lady Gaga & Bruno Mars
-2025-04-22 12:43:42,723 - INFO - Fetched Spotify data for Nokia by Drake
-2025-04-22 12:43:42,854 - INFO - Fetched Spotify data for Pink Pony Club by Chappell Roan
-2025-04-22 12:43:43,035 - INFO - Fetched Spotify data for Ordinary by Alex Warren
-2025-04-22 12:43:43,187 - INFO - Fetched Spotify data for A Bar Song (Tipsy) by Shaboozey
-2025-04-22 12:43:43,321 - INFO - Fetched Spotify data for Lose Control by Teddy Swims
-2025-04-22 12:43:43,617 - INFO - Fetched Spotify data for All The Way by BigXthaPlug Featuring Bailey Zimmerman
-2025-04-22 12:43:43,781 - INFO - Fetched Spotify data for Beautiful Things by Benson Boone
-2025-04-22 12:43:43,907 - INFO - Fetched Spotify data for I'm The Problem by Morgan Wallen
-2025-04-22 12:43:44,052 - INFO - Fetched Spotify data for Just In Case by Morgan Wallen
-2025-04-22 12:43:44,192 - INFO - Fetched Spotify data for Birds Of A Feather by Billie Eilish
-2025-04-22 12:43:44,332 - INFO - Fetched Spotify data for APT. by ROSE & Bruno Mars
-2025-04-22 12:43:44,477 - INFO - Fetched Spotify data for Anxiety by Doechii
-2025-04-22 12:43:44,611 - INFO - Fetched Spotify data for Espresso by Sabrina Carpenter
-2025-04-22 12:43:44,740 - INFO - Fetched Spotify data for Mutt by Leon Thomas
-2025-04-22 12:43:44,860 - INFO - Fetched Spotify data for I Had Some Help by Post Malone Featuring Morgan Wallen
-2025-04-22 12:43:45,027 - INFO - Fetched Spotify data for That's So True by Gracie Abrams
-2025-04-22 12:43:45,153 - INFO - Fetched Spotify data for Not Like Us by Kendrick Lamar
-2025-04-22 12:43:45,367 - INFO - Fetched Spotify data for Love Somebody by Morgan Wallen
-2025-04-22 12:43:45,568 - INFO - Fetched Spotify data for TV Off by Kendrick Lamar Featuring Lefty Gunplay
-2025-04-22 12:43:45,692 - INFO - Fetched Spotify data for Messy by Lola Young
-2025-04-22 12:43:45,942 - INFO - Fetched Spotify data for Sports Car by Tate McRae
-2025-04-22 12:43:46,209 - INFO - Fetched Spotify data for Squabble Up by Kendrick Lamar
-2025-04-22 12:43:46,346 - INFO - Fetched Spotify data for 30 For 30 by SZA With Kendrick Lamar
-2025-04-22 12:43:46,508 - INFO - Fetched Spotify data for Abracadabra by Lady Gaga
-2025-04-22 12:43:46,641 - INFO - Fetched Spotify data for Timeless by The Weeknd & Playboi Carti
-2025-04-22 12:43:46,781 - INFO - Fetched Spotify data for Taste by Sabrina Carpenter
-2025-04-22 12:43:46,951 - INFO - Fetched Spotify data for I Never Lie by Zach Top
-2025-04-22 12:43:47,225 - INFO - Fetched Spotify data for No One Noticed by The Marias
-2025-04-22 12:43:47,352 - INFO - Fetched Spotify data for Stargazing by Myles Smith
-2025-04-22 12:43:47,479 - INFO - Fetched Spotify data for Bad Dreams by Teddy Swims
-2025-04-22 12:43:47,696 - INFO - Fetched Spotify data for Fortnight by Taylor Swift Featuring Post Malone
-2025-04-22 12:43:47,897 - INFO - Fetched Spotify data for Good News by Shaboozey
-2025-04-22 12:43:48,036 - INFO - Fetched Spotify data for Sailor Song by Gigi Perez
-2025-04-22 12:43:48,172 - INFO - Fetched Spotify data for Sorry I'm Here For Someone Else by Benson Boone
-2025-04-22 12:43:48,326 - INFO - Fetched Spotify data for I'm A Little Crazy by Morgan Wallen
-2025-04-22 12:43:48,510 - INFO - Fetched Spotify data for Worst Way by Riley Green
-2025-04-22 12:43:48,642 - INFO - Fetched Spotify data for Azizam by Ed Sheeran
-2025-04-22 12:43:48,886 - INFO - Fetched Spotify data for Indigo by Sam Barber Featuring Avery Anna
-2025-04-22 12:43:49,078 - INFO - Fetched Spotify data for Dark Thoughts by Lil Tecca
-2025-04-22 12:43:49,287 - INFO - Fetched Spotify data for Denial Is A River by Doechii
-2025-04-22 12:43:49,409 - INFO - Fetched Spotify data for Cry For Me by The Weeknd
-2025-04-22 12:43:49,554 - INFO - Fetched Spotify data for Wildflower by Billie Eilish
-2025-04-22 12:43:49,685 - INFO - Fetched Spotify data for DTMF by Bad Bunny
-2025-04-22 12:43:49,826 - INFO - Fetched Spotify data for Residuals by Chris Brown
-2025-04-22 12:43:49,958 - INFO - Fetched Spotify data for Twilight Zone by Ariana Grande
-2025-04-22 12:43:50,161 - INFO - Fetched Spotify data for Me Jalo by Fuerza Regida & Grupo Frontera
-2025-04-22 12:43:50,309 - INFO - Fetched Spotify data for Rather Lie by Playboi Carti & The Weeknd
-2025-04-22 12:43:50,523 - INFO - Fetched Spotify data for Am I Okay? by Megan Moroney
-2025-04-22 12:43:50,709 - INFO - Fetched Spotify data for The Giver by Chappell Roan
-2025-04-22 12:43:50,839 - INFO - Fetched Spotify data for Weren't For The Wind by Ella Langley
-2025-04-22 12:43:50,991 - INFO - Fetched Spotify data for Baile Inolvidable by Bad Bunny
-2025-04-22 12:43:51,126 - INFO - Fetched Spotify data for Somebody Loves Me by PARTYNEXTDOOR & Drake
-2025-04-22 12:43:51,403 - INFO - Fetched Spotify data for BMF by SZA
-2025-04-22 12:43:51,604 - INFO - Fetched Spotify data for Back To Friends by sombr
-2025-04-22 12:43:51,864 - INFO - Fetched Spotify data for Friends Like That by John Morgan Featuring Jason Aldean
-2025-04-22 12:43:52,055 - INFO - Fetched Spotify data for Te Queria Ver by Aleman X Neton Vega
-2025-04-22 12:43:52,180 - INFO - Fetched Spotify data for Smile by Morgan Wallen
-2025-04-22 12:43:52,432 - INFO - Fetched Spotify data for Ojos Tristes by Selena Gomez, benny blanco & The Marias
-2025-04-22 12:43:52,571 - INFO - Fetched Spotify data for Revolving Door by Tate McRae
-2025-04-22 12:43:52,712 - INFO - Fetched Spotify data for Loco by Neton Vega
-2025-04-22 12:43:52,845 - INFO - Fetched Spotify data for Hard Fought Hallelujah by Brandon Lake
-2025-04-22 12:43:52,969 - INFO - Fetched Spotify data for Peekaboo by Kendrick Lamar Featuring AzChike
-2025-04-22 12:43:53,109 - INFO - Fetched Spotify data for Somethin' 'Bout A Woman by Thomas Rhett Featuring Teddy Swims
-2025-04-22 12:43:53,369 - INFO - Fetched Spotify data for Busy Woman by Sabrina Carpenter
-2025-04-22 12:43:53,574 - INFO - Fetched Spotify data for Holy Smokes by Bailey Zimmerman
-2025-04-22 12:43:53,762 - INFO - Fetched Spotify data for Caramel by Sleep Token
-2025-04-22 12:43:53,913 - INFO - Fetched Spotify data for End Of The World by Miley Cyrus
-2025-04-22 12:43:54,148 - INFO - Fetched Spotify data for Love Me Not by Ravyn Lenae
-2025-04-22 12:43:54,410 - INFO - Fetched Spotify data for Gimme A Hug by Drake
-2025-04-22 12:43:54,534 - INFO - Fetched Spotify data for Fix What You Didn't Break by Nate Smith
-2025-04-22 12:43:54,667 - INFO - Fetched Spotify data for Call Me When You Break Up by Selena Gomez, benny blanco & Gracie Abrams
-2025-04-22 12:43:54,805 - INFO - Fetched Spotify data for Texas by Blake Shelton
-2025-04-22 12:43:55,044 - INFO - Fetched Spotify data for Die Trying by PARTYNEXTDOOR, Drake & Yebba
-2025-04-22 12:43:55,179 - INFO - Fetched Spotify data for No Pole by Don Toliver
-2025-04-22 12:43:55,454 - INFO - Fetched Spotify data for Chest Pain (I Love) by Malcolm Todd
-2025-04-22 12:43:55,614 - INFO - Fetched Spotify data for Are You Even Real by Teddy Swims & GIVEON
-2025-04-22 12:43:55,839 - INFO - Fetched Spotify data for EOO by Bad Bunny
-2025-04-22 12:43:56,063 - INFO - Fetched Spotify data for Like Him by Tyler, The Creator Featuring Lola Young
-2025-04-22 12:43:56,212 - INFO - Fetched Spotify data for Blue Strips by Jessie Murph
-2025-04-22 12:43:56,497 - INFO - Fetched Spotify data for The Largest by BigXthaPlug
-2025-04-22 12:43:56,626 - INFO - Fetched Spotify data for Morena by Neton Vega & Peso Pluma
-2025-04-22 12:43:56,838 - INFO - Fetched Spotify data for Undressed by sombr
-2025-04-22 12:43:57,064 - INFO - Fetched Spotify data for Feel It by d4vd
-2025-04-22 12:43:57,211 - INFO - Fetched Spotify data for Backseat Driver by Kane Brown
-2025-04-22 12:43:57,502 - INFO - Fetched Spotify data for Evil J0rdan by Playboi Carti
-2025-04-22 12:43:57,654 - INFO - Fetched Spotify data for Que Pasaria... by Rauw Alejandro & Bad Bunny
-2025-04-22 12:43:57,841 - INFO - Fetched Spotify data for Nuevayol by Bad Bunny
-2025-04-22 12:43:58,084 - INFO - Fetched Spotify data for Henry, Come On by Lana Del Rey
-2025-04-22 12:43:58,283 - INFO - Fetched Spotify data for Haunted by Kane Brown With Jelly Roll
-2025-04-22 12:43:58,510 - INFO - Fetched Spotify data for Tattoo by Tito Double P
-2025-04-22 12:43:58,678 - INFO - Fetched Spotify data for Headlock by Imogen Heap
-2025-04-22 12:43:58,809 - INFO - Fetched Spotify data for Hands Of Time by Eric Church
-2025-04-22 12:43:58,944 - INFO - Fetched Spotify data for Por Esos Ojos by Fuerza Regida
-2025-04-22 12:43:59,077 - INFO - Fetched Spotify data for like JENNIE by JENNIE
-2025-04-22 12:43:59,273 - INFO - Fetched Spotify data for Not At This Party by Dasha
-2025-04-22 12:43:59,390 - INFO - Fetched Spotify data for Whiskey Drink by Jason Aldean
-2025-04-22 12:43:59,636 - INFO - Fetched Spotify data for Little Things by Ella Mai
-2025-04-22 12:43:59,850 - INFO - Fetched Spotify data for Dandelion by Ariana Grande
-2025-04-22 12:43:59,852 - INFO - Data transformation complete \u2705
-2025-04-22 15:11:56,103 - INFO - Fetched Billboard chart data for hot-100
-2025-04-22 15:11:56,540 - INFO - Fetched Spotify data for Luther by Kendrick Lamar & SZA
-2025-04-22 15:11:56,683 - INFO - Fetched Spotify data for Die With A Smile by Lady Gaga & Bruno Mars
-2025-04-22 15:11:56,818 - INFO - Fetched Spotify data for Nokia by Drake
-2025-04-22 15:11:56,940 - INFO - Fetched Spotify data for Pink Pony Club by Chappell Roan
-2025-04-22 15:11:57,088 - INFO - Fetched Spotify data for Ordinary by Alex Warren
-2025-04-22 15:11:57,208 - INFO - Fetched Spotify data for A Bar Song (Tipsy) by Shaboozey
-2025-04-22 15:11:57,342 - INFO - Fetched Spotify data for Lose Control by Teddy Swims
-2025-04-22 15:11:57,501 - INFO - Fetched Spotify data for All The Way by BigXthaPlug Featuring Bailey Zimmerman
-2025-04-22 15:11:57,689 - INFO - Fetched Spotify data for Beautiful Things by Benson Boone
-2025-04-22 15:11:57,866 - INFO - Fetched Spotify data for I'm The Problem by Morgan Wallen
-2025-04-22 15:11:57,998 - INFO - Fetched Spotify data for Just In Case by Morgan Wallen
-2025-04-22 15:11:58,164 - INFO - Fetched Spotify data for Birds Of A Feather by Billie Eilish
-2025-04-22 15:11:58,309 - INFO - Fetched Spotify data for APT. by ROSE & Bruno Mars
-2025-04-22 15:11:58,448 - INFO - Fetched Spotify data for Anxiety by Doechii
-2025-04-22 15:11:58,603 - INFO - Fetched Spotify data for Espresso by Sabrina Carpenter
-2025-04-22 15:11:58,737 - INFO - Fetched Spotify data for Mutt by Leon Thomas
-2025-04-22 15:11:58,871 - INFO - Fetched Spotify data for I Had Some Help by Post Malone Featuring Morgan Wallen
-2025-04-22 15:11:59,048 - INFO - Fetched Spotify data for That's So True by Gracie Abrams
-2025-04-22 15:11:59,185 - INFO - Fetched Spotify data for Not Like Us by Kendrick Lamar
-2025-04-22 15:11:59,324 - INFO - Fetched Spotify data for Love Somebody by Morgan Wallen
-2025-04-22 15:11:59,459 - INFO - Fetched Spotify data for TV Off by Kendrick Lamar Featuring Lefty Gunplay
-2025-04-22 15:11:59,596 - INFO - Fetched Spotify data for Messy by Lola Young
-2025-04-22 15:11:59,726 - INFO - Fetched Spotify data for Sports Car by Tate McRae
-2025-04-22 15:11:59,893 - INFO - Fetched Spotify data for Squabble Up by Kendrick Lamar
-2025-04-22 15:12:00,161 - INFO - Fetched Spotify data for 30 For 30 by SZA With Kendrick Lamar
-2025-04-22 15:12:00,303 - INFO - Fetched Spotify data for Abracadabra by Lady Gaga
-2025-04-22 15:12:00,483 - INFO - Fetched Spotify data for Timeless by The Weeknd & Playboi Carti
-2025-04-22 15:12:00,637 - INFO - Fetched Spotify data for Taste by Sabrina Carpenter
-2025-04-22 15:12:00,772 - INFO - Fetched Spotify data for I Never Lie by Zach Top
-2025-04-22 15:12:00,907 - INFO - Fetched Spotify data for No One Noticed by The Marias
-2025-04-22 15:12:01,039 - INFO - Fetched Spotify data for Stargazing by Myles Smith
-2025-04-22 15:12:01,223 - INFO - Fetched Spotify data for Bad Dreams by Teddy Swims
-2025-04-22 15:12:01,375 - INFO - Fetched Spotify data for Fortnight by Taylor Swift Featuring Post Malone
-2025-04-22 15:12:01,515 - INFO - Fetched Spotify data for Good News by Shaboozey
-2025-04-22 15:12:01,663 - INFO - Fetched Spotify data for Sailor Song by Gigi Perez
-2025-04-22 15:12:01,793 - INFO - Fetched Spotify data for Sorry I'm Here For Someone Else by Benson Boone
-2025-04-22 15:12:01,947 - INFO - Fetched Spotify data for I'm A Little Crazy by Morgan Wallen
-2025-04-22 15:12:02,086 - INFO - Fetched Spotify data for Worst Way by Riley Green
-2025-04-22 15:12:02,293 - INFO - Fetched Spotify data for Azizam by Ed Sheeran
-2025-04-22 15:12:02,462 - INFO - Fetched Spotify data for Indigo by Sam Barber Featuring Avery Anna
-2025-04-22 15:12:02,598 - INFO - Fetched Spotify data for Dark Thoughts by Lil Tecca
-2025-04-22 15:12:02,732 - INFO - Fetched Spotify data for Denial Is A River by Doechii
-2025-04-22 15:12:02,863 - INFO - Fetched Spotify data for Cry For Me by The Weeknd
-2025-04-22 15:12:03,018 - INFO - Fetched Spotify data for Wildflower by Billie Eilish
-2025-04-22 15:12:03,164 - INFO - Fetched Spotify data for DTMF by Bad Bunny
-2025-04-22 15:12:03,363 - INFO - Fetched Spotify data for Residuals by Chris Brown
-2025-04-22 15:12:03,522 - INFO - Fetched Spotify data for Twilight Zone by Ariana Grande
-2025-04-22 15:12:03,782 - INFO - Fetched Spotify data for Me Jalo by Fuerza Regida & Grupo Frontera
-2025-04-22 15:12:03,941 - INFO - Fetched Spotify data for Rather Lie by Playboi Carti & The Weeknd
-2025-04-22 15:12:04,075 - INFO - Fetched Spotify data for Am I Okay? by Megan Moroney
-2025-04-22 15:12:04,264 - INFO - Fetched Spotify data for The Giver by Chappell Roan
-2025-04-22 15:12:04,440 - INFO - Fetched Spotify data for Weren't For The Wind by Ella Langley
-2025-04-22 15:12:04,578 - INFO - Fetched Spotify data for Baile Inolvidable by Bad Bunny
-2025-04-22 15:12:04,704 - INFO - Fetched Spotify data for Somebody Loves Me by PARTYNEXTDOOR & Drake
-2025-04-22 15:12:04,855 - INFO - Fetched Spotify data for BMF by SZA
-2025-04-22 15:12:05,014 - INFO - Fetched Spotify data for Back To Friends by sombr
-2025-04-22 15:12:05,219 - INFO - Fetched Spotify data for Friends Like That by John Morgan Featuring Jason Aldean
-2025-04-22 15:12:05,355 - INFO - Fetched Spotify data for Te Queria Ver by Aleman X Neton Vega
-2025-04-22 15:12:05,496 - INFO - Fetched Spotify data for Smile by Morgan Wallen
-2025-04-22 15:12:05,646 - INFO - Fetched Spotify data for Ojos Tristes by Selena Gomez, benny blanco & The Marias
-2025-04-22 15:12:05,779 - INFO - Fetched Spotify data for Revolving Door by Tate McRae
-2025-04-22 15:12:05,894 - INFO - Fetched Spotify data for Loco by Neton Vega
-2025-04-22 15:12:06,046 - INFO - Fetched Spotify data for Hard Fought Hallelujah by Brandon Lake
-2025-04-22 15:12:06,187 - INFO - Fetched Spotify data for Peekaboo by Kendrick Lamar Featuring AzChike
-2025-04-22 15:12:06,468 - INFO - Fetched Spotify data for Somethin' 'Bout A Woman by Thomas Rhett Featuring Teddy Swims
-2025-04-22 15:12:06,597 - INFO - Fetched Spotify data for Busy Woman by Sabrina Carpenter
-2025-04-22 15:12:06,737 - INFO - Fetched Spotify data for Holy Smokes by Bailey Zimmerman
-2025-04-22 15:12:06,880 - INFO - Fetched Spotify data for Caramel by Sleep Token
-2025-04-22 15:12:07,015 - INFO - Fetched Spotify data for End Of The World by Miley Cyrus
-2025-04-22 15:12:07,230 - INFO - Fetched Spotify data for Love Me Not by Ravyn Lenae
-2025-04-22 15:12:07,371 - INFO - Fetched Spotify data for Gimme A Hug by Drake
-2025-04-22 15:12:07,509 - INFO - Fetched Spotify data for Fix What You Didn't Break by Nate Smith
-2025-04-22 15:12:07,751 - INFO - Fetched Spotify data for Call Me When You Break Up by Selena Gomez, benny blanco & Gracie Abrams
-2025-04-22 15:12:07,889 - INFO - Fetched Spotify data for Texas by Blake Shelton
-2025-04-22 15:12:08,032 - INFO - Fetched Spotify data for Die Trying by PARTYNEXTDOOR, Drake & Yebba
-2025-04-22 15:12:08,200 - INFO - Fetched Spotify data for No Pole by Don Toliver
-2025-04-22 15:12:08,326 - INFO - Fetched Spotify data for Chest Pain (I Love) by Malcolm Todd
-2025-04-22 15:12:08,466 - INFO - Fetched Spotify data for Are You Even Real by Teddy Swims & GIVEON
-2025-04-22 15:12:08,619 - INFO - Fetched Spotify data for EOO by Bad Bunny
-2025-04-22 15:12:08,786 - INFO - Fetched Spotify data for Like Him by Tyler, The Creator Featuring Lola Young
-2025-04-22 15:12:08,910 - INFO - Fetched Spotify data for Blue Strips by Jessie Murph
-2025-04-22 15:12:09,219 - INFO - Fetched Spotify data for The Largest by BigXthaPlug
-2025-04-22 15:12:09,365 - INFO - Fetched Spotify data for Morena by Neton Vega & Peso Pluma
-2025-04-22 15:12:09,513 - INFO - Fetched Spotify data for Undressed by sombr
-2025-04-22 15:12:09,709 - INFO - Fetched Spotify data for Feel It by d4vd
-2025-04-22 15:12:09,869 - INFO - Fetched Spotify data for Backseat Driver by Kane Brown
-2025-04-22 15:12:10,007 - INFO - Fetched Spotify data for Evil J0rdan by Playboi Carti
-2025-04-22 15:12:10,167 - INFO - Fetched Spotify data for Que Pasaria... by Rauw Alejandro & Bad Bunny
-2025-04-22 15:12:10,344 - INFO - Fetched Spotify data for Nuevayol by Bad Bunny
-2025-04-22 15:12:10,532 - INFO - Fetched Spotify data for Henry, Come On by Lana Del Rey
-2025-04-22 15:12:10,671 - INFO - Fetched Spotify data for Haunted by Kane Brown With Jelly Roll
-2025-04-22 15:12:10,891 - INFO - Fetched Spotify data for Tattoo by Tito Double P
-2025-04-22 15:12:11,027 - INFO - Fetched Spotify data for Headlock by Imogen Heap
-2025-04-22 15:12:11,225 - INFO - Fetched Spotify data for Hands Of Time by Eric Church
-2025-04-22 15:12:11,379 - INFO - Fetched Spotify data for Por Esos Ojos by Fuerza Regida
-2025-04-22 15:12:11,589 - INFO - Fetched Spotify data for like JENNIE by JENNIE
-2025-04-22 15:12:11,749 - INFO - Fetched Spotify data for Not At This Party by Dasha
-2025-04-22 15:12:11,892 - INFO - Fetched Spotify data for Whiskey Drink by Jason Aldean
-2025-04-22 15:12:12,074 - INFO - Fetched Spotify data for Little Things by Ella Mai
-2025-04-22 15:12:12,216 - INFO - Fetched Spotify data for Dandelion by Ariana Grande
-2025-04-22 15:12:12,218 - INFO - Data transformation complete \u2705
+
+2025-04-23 22:39:34,835 - INFO - Starting ETL process...
+2025-04-23 22:39:34,835 - INFO - Starting data transformation...
+2025-04-23 22:39:48,212 - INFO - Fetched Billboard chart data for hot-100
+2025-04-23 22:39:48,389 - INFO - Fetched Spotify data for Luther by Kendrick Lamar & SZA
+2025-04-23 22:39:48,571 - INFO - Fetched Spotify data for Die With A Smile by Lady Gaga & Bruno Mars
+2025-04-23 22:39:48,698 - INFO - Fetched Spotify data for Nokia by Drake
+2025-04-23 22:39:48,843 - INFO - Fetched Spotify data for Pink Pony Club by Chappell Roan
+2025-04-23 22:39:48,976 - INFO - Fetched Spotify data for Ordinary by Alex Warren
+2025-04-23 22:39:49,111 - INFO - Fetched Spotify data for A Bar Song (Tipsy) by Shaboozey
+2025-04-23 22:39:49,281 - INFO - Fetched Spotify data for Lose Control by Teddy Swims
+2025-04-23 22:39:49,402 - INFO - Fetched Spotify data for All The Way by BigXthaPlug Featuring Bailey Zimmerman
+2025-04-23 22:39:49,580 - INFO - Fetched Spotify data for Beautiful Things by Benson Boone
+2025-04-23 22:39:49,725 - INFO - Fetched Spotify data for I'm The Problem by Morgan Wallen
+2025-04-23 22:39:49,853 - INFO - Fetched Spotify data for Just In Case by Morgan Wallen
+2025-04-23 22:39:49,982 - INFO - Fetched Spotify data for Birds Of A Feather by Billie Eilish
+2025-04-23 22:39:50,134 - INFO - Fetched Spotify data for APT. by ROSE & Bruno Mars
+2025-04-23 22:39:50,268 - INFO - Fetched Spotify data for Anxiety by Doechii
+2025-04-23 22:39:50,430 - INFO - Fetched Spotify data for Espresso by Sabrina Carpenter
+2025-04-23 22:39:50,564 - INFO - Fetched Spotify data for Mutt by Leon Thomas
+2025-04-23 22:39:50,728 - INFO - Fetched Spotify data for I Had Some Help by Post Malone Featuring Morgan Wallen
+2025-04-23 22:39:50,899 - INFO - Fetched Spotify data for That's So True by Gracie Abrams
+2025-04-23 22:39:51,027 - INFO - Fetched Spotify data for Not Like Us by Kendrick Lamar
+2025-04-23 22:39:51,190 - INFO - Fetched Spotify data for Love Somebody by Morgan Wallen
+2025-04-23 22:39:51,378 - INFO - Fetched Spotify data for TV Off by Kendrick Lamar Featuring Lefty Gunplay
+2025-04-23 22:39:51,500 - INFO - Fetched Spotify data for Messy by Lola Young
+2025-04-23 22:39:51,628 - INFO - Fetched Spotify data for Sports Car by Tate McRae
+2025-04-23 22:39:51,773 - INFO - Fetched Spotify data for Squabble Up by Kendrick Lamar
+2025-04-23 22:39:51,920 - INFO - Fetched Spotify data for 30 For 30 by SZA With Kendrick Lamar
+2025-04-23 22:39:52,070 - INFO - Fetched Spotify data for Abracadabra by Lady Gaga
+2025-04-23 22:39:52,192 - INFO - Fetched Spotify data for Timeless by The Weeknd & Playboi Carti
+2025-04-23 22:39:52,335 - INFO - Fetched Spotify data for Taste by Sabrina Carpenter
+2025-04-23 22:39:52,459 - INFO - Fetched Spotify data for I Never Lie by Zach Top
+2025-04-23 22:39:52,594 - INFO - Fetched Spotify data for No One Noticed by The Marias
+2025-04-23 22:39:52,722 - INFO - Fetched Spotify data for Stargazing by Myles Smith
+2025-04-23 22:39:52,877 - INFO - Fetched Spotify data for Bad Dreams by Teddy Swims
+2025-04-23 22:39:53,009 - INFO - Fetched Spotify data for Fortnight by Taylor Swift Featuring Post Malone
+2025-04-23 22:39:53,151 - INFO - Fetched Spotify data for Good News by Shaboozey
+2025-04-23 22:39:53,315 - INFO - Fetched Spotify data for Sailor Song by Gigi Perez
+2025-04-23 22:39:53,454 - INFO - Fetched Spotify data for Sorry I'm Here For Someone Else by Benson Boone
+2025-04-23 22:39:53,613 - INFO - Fetched Spotify data for I'm A Little Crazy by Morgan Wallen
+2025-04-23 22:39:53,764 - INFO - Fetched Spotify data for Worst Way by Riley Green
+2025-04-23 22:39:53,919 - INFO - Fetched Spotify data for Azizam by Ed Sheeran
+2025-04-23 22:39:54,048 - INFO - Fetched Spotify data for Indigo by Sam Barber Featuring Avery Anna
+2025-04-23 22:39:54,214 - INFO - Fetched Spotify data for Dark Thoughts by Lil Tecca
+2025-04-23 22:39:54,346 - INFO - Fetched Spotify data for Denial Is A River by Doechii
+2025-04-23 22:39:54,483 - INFO - Fetched Spotify data for Cry For Me by The Weeknd
+2025-04-23 22:39:54,615 - INFO - Fetched Spotify data for Wildflower by Billie Eilish
+2025-04-23 22:39:54,748 - INFO - Fetched Spotify data for DTMF by Bad Bunny
+2025-04-23 22:39:54,883 - INFO - Fetched Spotify data for Residuals by Chris Brown
+2025-04-23 22:39:55,016 - INFO - Fetched Spotify data for Twilight Zone by Ariana Grande
+2025-04-23 22:39:55,155 - INFO - Fetched Spotify data for Me Jalo by Fuerza Regida & Grupo Frontera
+2025-04-23 22:39:55,280 - INFO - Fetched Spotify data for Rather Lie by Playboi Carti & The Weeknd
+2025-04-23 22:39:55,397 - INFO - Fetched Spotify data for Am I Okay? by Megan Moroney
+2025-04-23 22:39:55,528 - INFO - Fetched Spotify data for The Giver by Chappell Roan
+2025-04-23 22:39:55,672 - INFO - Fetched Spotify data for Weren't For The Wind by Ella Langley
+2025-04-23 22:39:55,802 - INFO - Fetched Spotify data for Baile Inolvidable by Bad Bunny
+2025-04-23 22:39:55,932 - INFO - Fetched Spotify data for Somebody Loves Me by PARTYNEXTDOOR & Drake
+2025-04-23 22:39:56,093 - INFO - Fetched Spotify data for BMF by SZA
+2025-04-23 22:39:56,228 - INFO - Fetched Spotify data for Back To Friends by sombr
+2025-04-23 22:39:56,346 - INFO - Fetched Spotify data for Friends Like That by John Morgan Featuring Jason Aldean
+2025-04-23 22:39:56,469 - INFO - Fetched Spotify data for Te Queria Ver by Aleman X Neton Vega
+2025-04-23 22:39:56,597 - INFO - Fetched Spotify data for Smile by Morgan Wallen
+2025-04-23 22:39:56,727 - INFO - Fetched Spotify data for Ojos Tristes by Selena Gomez, benny blanco & The Marias
+2025-04-23 22:39:56,861 - INFO - Fetched Spotify data for Revolving Door by Tate McRae
+2025-04-23 22:39:57,000 - INFO - Fetched Spotify data for Loco by Neton Vega
+2025-04-23 22:39:57,121 - INFO - Fetched Spotify data for Hard Fought Hallelujah by Brandon Lake
+2025-04-23 22:39:57,266 - INFO - Fetched Spotify data for Peekaboo by Kendrick Lamar Featuring AzChike
+2025-04-23 22:39:57,403 - INFO - Fetched Spotify data for Somethin' 'Bout A Woman by Thomas Rhett Featuring Teddy Swims
+2025-04-23 22:39:57,540 - INFO - Fetched Spotify data for Busy Woman by Sabrina Carpenter
+2025-04-23 22:39:57,668 - INFO - Fetched Spotify data for Holy Smokes by Bailey Zimmerman
+2025-04-23 22:39:57,821 - INFO - Fetched Spotify data for Caramel by Sleep Token
+2025-04-23 22:39:57,950 - INFO - Fetched Spotify data for End Of The World by Miley Cyrus
+2025-04-23 22:39:58,074 - INFO - Fetched Spotify data for Love Me Not by Ravyn Lenae
+2025-04-23 22:39:58,199 - INFO - Fetched Spotify data for Gimme A Hug by Drake
+2025-04-23 22:39:58,338 - INFO - Fetched Spotify data for Fix What You Didn't Break by Nate Smith
+2025-04-23 22:39:58,529 - INFO - Fetched Spotify data for Call Me When You Break Up by Selena Gomez, benny blanco & Gracie Abrams
+2025-04-23 22:39:58,666 - INFO - Fetched Spotify data for Texas by Blake Shelton
+2025-04-23 22:39:58,826 - INFO - Fetched Spotify data for Die Trying by PARTYNEXTDOOR, Drake & Yebba
+2025-04-23 22:39:58,956 - INFO - Fetched Spotify data for No Pole by Don Toliver
+2025-04-23 22:39:59,092 - INFO - Fetched Spotify data for Chest Pain (I Love) by Malcolm Todd
+2025-04-23 22:39:59,262 - INFO - Fetched Spotify data for Are You Even Real by Teddy Swims & GIVEON
+2025-04-23 22:39:59,396 - INFO - Fetched Spotify data for EOO by Bad Bunny
+2025-04-23 22:39:59,531 - INFO - Fetched Spotify data for Like Him by Tyler, The Creator Featuring Lola Young
+2025-04-23 22:39:59,684 - INFO - Fetched Spotify data for Blue Strips by Jessie Murph
+2025-04-23 22:39:59,829 - INFO - Fetched Spotify data for The Largest by BigXthaPlug
+2025-04-23 22:39:59,992 - INFO - Fetched Spotify data for Morena by Neton Vega & Peso Pluma
+2025-04-23 22:40:00,112 - INFO - Fetched Spotify data for Undressed by sombr
+2025-04-23 22:40:00,228 - INFO - Fetched Spotify data for Feel It by d4vd
+2025-04-23 22:40:00,381 - INFO - Fetched Spotify data for Backseat Driver by Kane Brown
+2025-04-23 22:40:00,516 - INFO - Fetched Spotify data for Evil J0rdan by Playboi Carti
+2025-04-23 22:40:00,686 - INFO - Fetched Spotify data for Que Pasaria... by Rauw Alejandro & Bad Bunny
+2025-04-23 22:40:00,827 - INFO - Fetched Spotify data for Nuevayol by Bad Bunny
+2025-04-23 22:40:00,971 - INFO - Fetched Spotify data for Henry, Come On by Lana Del Rey
+2025-04-23 22:40:01,112 - INFO - Fetched Spotify data for Haunted by Kane Brown With Jelly Roll
+2025-04-23 22:40:01,235 - INFO - Fetched Spotify data for Tattoo by Tito Double P
+2025-04-23 22:40:01,405 - INFO - Fetched Spotify data for Headlock by Imogen Heap
+2025-04-23 22:40:01,527 - INFO - Fetched Spotify data for Hands Of Time by Eric Church
+2025-04-23 22:40:01,650 - INFO - Fetched Spotify data for Por Esos Ojos by Fuerza Regida
+2025-04-23 22:40:01,803 - INFO - Fetched Spotify data for like JENNIE by JENNIE
+2025-04-23 22:40:01,960 - INFO - Fetched Spotify data for Not At This Party by Dasha
+2025-04-23 22:40:02,099 - INFO - Fetched Spotify data for Whiskey Drink by Jason Aldean
+2025-04-23 22:40:02,222 - INFO - Fetched Spotify data for Little Things by Ella Mai
+2025-04-23 22:40:02,412 - INFO - Fetched Spotify data for Dandelion by Ariana Grande
+2025-04-23 22:40:02,415 - INFO - Data transformation complete \u2705
+2025-04-23 22:40:02,415 - INFO - Transformation complete. DataFrame shape: (100, 9)
+2025-04-23 22:40:02,415 - INFO - Starting BigQuery load...
+2025-04-23 22:40:05,468 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2025-04-23 22:40:09,533 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2025-04-23 22:40:14,593 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+2025-04-23 22:40:14,593 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-23 22:40:17,807 - INFO - 
+100 out of 100 rows loaded.
+2025-04-23 22:40:17,807 - INFO - Successfully loaded 100 rows to BigQuery: billboard_spotify.billboard_spotify_table
+2025-04-23 22:40:17,807 - INFO - ETL process completed successfully \u2728

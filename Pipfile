@@ -6,10 +6,11 @@ name = "pypi"
 [packages]
 python-dotenv = "*"
 requests = "*"
-pandas = "*"
 musicbrainzngs = "*"
 spotipy = "*"
 "billboard.py" = "*"
+pandas = "*"
+pandas-gbq = "*"
 
 [dev-packages]
 
