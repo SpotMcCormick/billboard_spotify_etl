@@ -54,7 +54,7 @@ def transform_data():
     df['CHART_DATE'] = df['CHART_DATE'].fillna(pd.Timestamp('1970-01-01'))
     df['RELEASE_DATE'] = df['RELEASE_DATE'].fillna(pd.Timestamp('1970-01-01'))
 
-    logging.info("Data transformation complete ✅")
+    logging.info("Data transformation complete")
     return df
 
 
