@@ -6,19 +6,19 @@ import logging
 import os
 from dotenv import load_dotenv
 
-# Explicitly set the path to your .env file
+# loading .env
 dotenv_path = '/opt/airflow/.env'
 load_dotenv(dotenv_path)
 
-# Add your ETL scripts directory to the path
+# Add etl .py
 sys.path.append("/opt/airflow/billboard_spotify_etl")
 
-# Import your ETL functions
+# Importign ETL Functions
 from transform import transform_data
 from load import load_to_bigquery
 
 
-# Define default arguments
+# Args
 default_args = {
     'owner': 'Jeremy',
     'retries': 1,
@@ -26,16 +26,16 @@ default_args = {
     'start_date': datetime(2025, 4, 26)
 }
 
-# Create the DAG
+# Creating DAG
 dag = DAG(
     'billboard_spotify_etl',
     default_args=default_args,
     description='Billboard and Spotify ETL Pipeline',
-    schedule_interval='0 0 * * 1',  # Run every Monday at midnight
+    schedule_interval='0 0 * * 1',  # Run monday at midnight
     catchup=False
 )
 
-# Define the tasks
+# Creating etl func
 def etl_process():
     """Wrapper function for the ETL process"""
     logging.info("Starting ETL process...")
@@ -50,7 +50,7 @@ def etl_process():
         # Load to BigQuery
         logging.info("Starting BigQuery load...")
         if load_to_bigquery(df):
-            logging.info("ETL process completed successfully ✨")
+            logging.info("ETL process completed successfully")
             return True
         else:
             raise Exception("Failed to load data to BigQuery")
