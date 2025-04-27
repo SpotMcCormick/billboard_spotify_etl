@@ -29,7 +29,7 @@ def run_etl():
             # Load to BigQuery
             logging.info("Starting BigQuery load...")
             if load_to_bigquery(df):
-                logging.info("ETL process completed successfully ✨")
+                logging.info("ETL process completed successfully")
                 return True
             else:
                 logging.error("Failed to load data to BigQuery")
