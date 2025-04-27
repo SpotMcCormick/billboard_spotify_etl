@@ -17,9 +17,6 @@ sys.path.append("/opt/airflow/billboard_spotify_etl")
 from transform import transform_data
 from load import load_to_bigquery
 
-# Verify credentials are loaded
-print(f"SPOTIFY_CLIENT_ID exists: {os.getenv('SPOTIFY_CLIENT_ID') is not None}")
-print(f"SPOTIPY_CLIENT_ID exists: {os.getenv('SPOTIPY_CLIENT_ID') is not None}")
 
 # Define default arguments
 default_args = {
