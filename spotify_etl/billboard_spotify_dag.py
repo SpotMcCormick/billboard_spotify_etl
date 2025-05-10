@@ -13,7 +13,7 @@ load_dotenv(dotenv_path)
 # Add etl .py
 sys.path.append("/opt/airflow/billboard_spotify_etl")
 
-# Importign ETL Functions
+# Importing ETL Functions
 from transform import transform_data
 from load import load_to_bigquery
 
